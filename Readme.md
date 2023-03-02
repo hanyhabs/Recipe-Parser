@@ -13,7 +13,7 @@ Recipe parsing is the process of extracting relevant information from a recipe t
 
 ## Methodology
 
-### UI (using tkinter library)###
+### UI (using tkinter library) ###
   1) Define a window of 800x800
   2) Define textbox / button layout
     Textbox 1 (Input recipe): User input for recipe requirement. It opens the website www.allrecipes.com and enters the input in the search box, and selects the first      search suggestion. The webpage is then scraped when Button 1 “Search” is clicked.
